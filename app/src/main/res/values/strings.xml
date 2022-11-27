@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="dummy_restaurant_name">The Tavern</string>
+    <string name="dummy_restaurant_description"><![CDATA[A modern & casual dining venue serving a variety of western and Asian specialties, as well as cocktails.]]></string>
+    <string name="write_your_review">Write your review</string>
+    <string name="et_review_hint">Review</string>
+    <string name="send">Send</string>
+    <string name="dummy_restaurant_review">My friend recommended this place to me but to be honest it\'s actually not really great</string>
+    <string name="dummy_reviewer">Reviewer - time</string>
+</resources>
